@@ -1,14 +1,14 @@
-# 📅 Automated Scheduling System - Java
+#  Automated Scheduling System - Java
 
 Ce projet implémente un solveur d'ordonnancement d'activités sous contraintes. Développé en **Java**, il utilise des concepts avancés d'algorithmique de graphes pour générer des emplois du temps valides.
 
-## 👥 Auteurs
+## Auteurs
 - **Elom Mensah Amen ATTIOGBE**
 - **Eugene Ephrem ATIVI**
 
 ---
 
-## 🛠️ Fonctionnalités & Algorithmes
+##  Fonctionnalités & Algorithmes
 Le projet est découpé en plusieurs modules suivant l'évolution des problématiques d'ordonnancement :
 
 * **Gestion d'Activités & Contraintes** : Implémentation de contraintes de précédence (`PrecedenceConstraint`) et de délais (`Gap`).
@@ -18,7 +18,7 @@ Le projet est découpé en plusieurs modules suivant l'évolution des problémat
 
 ---
 
-## 📂 Structure du Projet
+##  Structure du Projet
 Le code est organisé en packages pour une meilleure modularité :
 - `scheduling.activities` : Définition des entités de base.
 - `scheduling.constraints` : Moteur de règles et contraintes logiques.
@@ -27,7 +27,7 @@ Le code est organisé en packages pour une meilleure modularité :
 
 ---
 
-## 🚀 Guide de démarrage
+##  Guide de démarrage
 
 ### Prérequis
 Le projet nécessite la librairie `schedulingtests.jar` présente dans le dossier `/lib`.
